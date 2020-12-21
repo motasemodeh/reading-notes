@@ -13,12 +13,12 @@
 # Tables of Content
 
 - Read 01
-  - [Mastering Markdown on GitHub](https://motasemodeh.github.io/reading-notes/readme1)
-  - [GitHub Pages](https://motasemodeh.github.io/reading-notes/readme2)
-  - [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/readme3)
+  - [Mastering Markdown on GitHub](https://motasemodeh.github.io/reading-notes/README1)
+  - [GitHub Pages](https://motasemodeh.github.io/reading-notes/README2)
+  - [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/README3)
   
 - Read 02
-  - [Text Editor](https://motasemodeh.github.io/reading-notes/readme4)
-  - [The Command Line!](https://motasemodeh.github.io/reading-notes/readme5)
-  - [Basic Navigation!](https://motasemodeh.github.io/reading-notes/readme6)
-  - [About Files](https://motasemodeh.github.io/reading-notes/readme7)
+  - [Text Editor](https://motasemodeh.github.io/reading-notes/README4)
+  - [The Command Line!](https://motasemodeh.github.io/reading-notes/README5)
+  - [Basic Navigation!](https://motasemodeh.github.io/reading-notes/README6)
+  - [About Files](https://motasemodeh.github.io/reading-notes/README7)
