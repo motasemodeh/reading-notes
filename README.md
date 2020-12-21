@@ -10,7 +10,9 @@
 ![Image of Growth Mindset](https://www.muhlsdk12.org/cms/lib/PA01916549/Centricity/Domain/225/growth%20mindset.JPG)
 
 
-# Tables of Content
+# About me 
+
+## Tables of Content
 
 
 

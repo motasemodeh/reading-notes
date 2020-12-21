@@ -1,4 +1,4 @@
-Basic Navigation!
+# Basic Navigation!
 
 1. pwd
 pwd which stands for Print Working Directory. this command helps you to know your current or present working directory is. 
