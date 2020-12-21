@@ -15,11 +15,11 @@
 
 
 |  Article 	|   Link	|
-|---	|---	|---	|
+|---	|---	|
 |   Read 1	|   [Mastering Markdown on GitHub](https://motasemodeh.github.io/reading-notes/README1)	|   	
 |   Read 2	|   [GitHub Pages](https://motasemodeh.github.io/reading-notes/README2)	| 
 |   Read 3	|   [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/README3)	|
-|   Read 4	|   [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/README4)	|
-|   Read 5	|   [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/README5)	|
-|   Read 6	|   [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/README6)	|
-|   Read 7	|   [Basic writing and formatting syntax](https://motasemodeh.github.io/reading-notes/README7)	|  
+|   Read 4	|   [text editor](https://motasemodeh.github.io/reading-notes/README4)	|
+|   Read 5	|   [The Command Line!](https://motasemodeh.github.io/reading-notes/README5)	|
+|   Read 6	|   [Basic Navigation!](https://motasemodeh.github.io/reading-notes/README6)	|
+|   Read 7	|   [About Files](https://motasemodeh.github.io/reading-notes/README7)	|  
