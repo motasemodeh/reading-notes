@@ -29,7 +29,7 @@ The `<body>` tag indicates that anything between it and the closing
 `</body>` tag should be shown inside the main browser window.
 Words between `<h1>` and `</h1>` are a main heading.
 
-Extra Markup
+## Extra Markup
 
 Since the web was first created, there have been several different versions of HTML.
 
