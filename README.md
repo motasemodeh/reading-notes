@@ -26,3 +26,4 @@ Hello my name's Motasem Odeh, I'm 29 years old, I've bachelor's degree in IT and
 |   Read 5	|   [The Command Line!](https://motasemodeh.github.io/reading-notes/README5)	|
 |   Read 6	|   [Basic Navigation!](https://motasemodeh.github.io/reading-notes/README6)	|
 |   Read 7	|   [About Files](https://motasemodeh.github.io/reading-notes/README7)	|  
+|   Read 8	|   [Structure web pages with HTML](https://motasemodeh.github.io/reading-notes/README8)	|  
