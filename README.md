@@ -14,7 +14,7 @@
 
 Hello my name's Motasem Odeh, I'm 29 years old, I've bachelor's degree in IT and Computing I'm hear to Improve my skills and to get a better job.
 
-## Tables of Content
+## Code 102 Reading Notes
 
 
 |  Article 	|   Link	|
@@ -32,3 +32,23 @@ Hello my name's Motasem Odeh, I'm 29 years old, I've bachelor's degree in IT and
 |   Read 11	|   [JavaScript: Intro + Scripts and functions](https://motasemodeh.github.io/reading-notes/README11)	|  
 |   Read 12	|   [Comparison and logical operators](https://motasemodeh.github.io/reading-notes/README12)	|  
 |   Read 13	|   [Comparison and logical operators](https://motasemodeh.github.io/reading-notes/README13)	|  
+
+## Code 201 Reading Notes
+
+|  Article 	|   Link	|
+|---	|---	|
+|   Read 1	|   []()	|   	
+|   Read 2	|   []()	| 
+|   Read 3	|   []()	|
+|   Read 4	|   []()	|
+|   Read 5	|   []()	|
+|   Read 6	|   []()	|
+|   Read 7	|   []()	|  
+|   Read 8	|   []()	|  
+|   Read 9	|   []()	|  
+|   Read 10	|   []()	|  
+|   Read 11	|   []()	|  
+|   Read 12	|   []()	|  
+|   Read 13	|   []()	|  
+|   Read 14	|   []()	|  
+|   Read 15	|   []()	|  
