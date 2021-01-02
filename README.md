@@ -37,7 +37,7 @@ Hello my name's Motasem Odeh, I'm 29 years old, I've bachelor's degree in IT and
 
 |  Article 	|   Link	|
 |---	|---	|
-|   Read 1	|   []()	|   	
+|   Read 1	|   [Introductory HTML and JavaScript](https://motasemodeh.github.io/reading-notes/class-01)	|   	
 |   Read 2	|   []()	| 
 |   Read 3	|   []()	|
 |   Read 4	|   []()	|
