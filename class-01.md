@@ -12,7 +12,7 @@ All websites use HTML and CSS, but content management systems, blogging software
 When you visit a website, the website content could be hosted anywhere in the world. in order to access the website content you need to type a URL
 That URL gets resolved A Request is sent to the server of the website The response of the server is parsed The page is rendered and displayed on the user browser
 
-[Image of how web works](img/how-the-web-works-big-picture.jpg)
+![Image of how web works](img/how-the-web-works-big-picture.jpg)
 
 # structure
 
