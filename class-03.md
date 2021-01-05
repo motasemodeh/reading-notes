@@ -13,7 +13,8 @@ in order to creatr a list in HTML There're three types of lists in HTML
 
 they are lists where each item in the list is numbered. Ordered lists use numbers.
 
-```<ol>
+```
+<ol>
 <li>Chop potatoes into quarters</li>
 <li>Simmer in salted water for 15-20
 minutes until tender</li>
@@ -27,7 +28,8 @@ minutes until tender</li>
 
 are lists that begin with a bullet point.
 
-```<ul>
+```
+<ul>
 <li>1kg King Edward potatoes</li>
 <li>100ml milk</li>
 <li>50g salted butter</li>
@@ -79,16 +81,18 @@ when we create arrays we need to specify the number of values it will holds
 
 ### Creating Arrays
 
-```var colors;
-colors = ['white', 'black', ' custom '];
+```
+var colors;
+colors = [values];
 ```
 
 # IF ... ELSE Statements
 
 we use if else statements to check conditions if the first code is true it will be excuted and if false the second code wil be excuted instead.
 
-```if( age > 18 ) {
-document.write("<b>Qualifies for driving</b>");
+```
+if( age > 18 ) {
+document.write(Qualifies for driving);
 }
 ```
 
@@ -96,24 +100,19 @@ document.write("<b>Qualifies for driving</b>");
 
 A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
-```var grade = 'A';
-switch (grade) {
-case 'A': document.write("Good job<br />");
-break;
-            
-case 'B': document.write("Pretty good<br />");
-break;
-            
-case 'C': document.write("Passed<br />");
-break;
-          
-case 'D': document.write("Not so good<br />");
-break;
-            
-case 'F': document.write("Failed<br />");
-break;
-        
-default:  document.write("Unknown grade<br />")
+```switch (expression) {
+   case condition 1: statement(s)
+   break;
+   
+   case condition 2: statement(s)
+   break;
+   ...
+   
+   case condition n: statement(s)
+   break;
+   
+   default: statement(s)
+}
 ```
 
 ## TRUTHY & FALSY VALUES
