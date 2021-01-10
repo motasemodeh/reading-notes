@@ -44,7 +44,7 @@ Hello my name's Motasem Odeh, I'm 29 years old, I've bachelor's degree in IT and
 |   Read 5	|   [Class 05](https://motasemodeh.github.io/reading-notes/class-05)	|
 |   Read 6	|   [Class 06](https://motasemodeh.github.io/reading-notes/class-06)	|
 |   Read 7	|   [Class 07](https://motasemodeh.github.io/reading-notes/class-07)	|  
-|   Read 8	|   []()	|  
+|   Read 8	|   [Class 08](https://motasemodeh.github.io/reading-notes/class-08)	|  
 |   Read 9	|   []()	|  
 |   Read 10	|   []()	|  
 |   Read 11	|   []()	|  
